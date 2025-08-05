@@ -12,7 +12,7 @@ public class hiding {
 }
 class test extends hiding{
     public static void main(hiding t){
-        System.out.println("this is my child class method hiding ");
+        System.out.println("this is my  hello child class method hiding ");
     }
 
 }
