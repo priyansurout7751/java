@@ -43,7 +43,7 @@ public class Matrix {
 
         }
     }
-    //this is a multiplication
+    //this is a multiplication.
     
 
 
